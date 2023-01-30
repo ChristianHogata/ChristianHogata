@@ -6,7 +6,7 @@
 <br>
 
 ![Blog](https://img.shields.io/website?label=HogataDev.com.Br&style=for=the=badge&url=https://HogataDev.com.br/)
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/christian-hogata-7628a3127/)
 ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 
 <hr> 
